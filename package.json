@@ -1,0 +1,29 @@
+{
+  "name": "testing_twitter_bot",
+  "version": "1.0.0",
+  "description": "Testing making a twitter bot",
+  "main": "bot.js",
+  "dependencies": {
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ejensen7/TwitterBots.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "twitter_bot"
+  ],
+  "author": "Ejensen7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ejensen7/TwitterBots/issues"
+  },
+  "homepage": "https://github.com/Ejensen7/TwitterBots#readme"
+}
